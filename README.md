@@ -13,5 +13,4 @@
 
 
 <h3>Language and Tools:</h3>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+<p><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/fluency/48/000000/github.png"/></p>

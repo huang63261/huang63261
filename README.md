@@ -3,7 +3,6 @@
 
 
 * python, Shell
-* Hadoop
 * Flask
 * MySQL, MongoDB
 * Git

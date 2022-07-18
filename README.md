@@ -3,6 +3,9 @@
 
 
 * python, Shell
+* PHP
+* JS
+* Codeigniter
 * Flask
 * MySQL, MongoDB
 * Git

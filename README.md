@@ -2,7 +2,7 @@
 
 
 
-* python, Shell
+* Python
 * PHP
 * JS
 * Codeigniter

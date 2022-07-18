@@ -1,16 +1,19 @@
 <h1>Hey guys! I'm <a href="https://github.com/huang63261">Harvey Huang</a>:seedling:</h1>
 
 
-
-* Python
-* PHP
-* JS
-* Codeigniter
-* Flask
-* MySQL, MongoDB
-* Git
-* Docker
-* AWS, GCP
+- Language
+  - Python
+  - PHP
+  - JS
+- Framework
+  - Codeigniter
+  - Flask
+- DataBase
+  - MySQL, MongoDB
+- Git
+  - GitHub, GitLab
+- Docker
+- AWS, GCP
 
 
 

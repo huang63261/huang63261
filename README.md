@@ -8,10 +8,15 @@
 - Framework
   - Codeigniter
   - Flask
+  - Laravel
 - DataBase
-  - MySQL, MongoDB
+  - RDBMS
+    - MySQL
+  - NoSql
+    - MongoDB
 - Git
-  - GitHub, GitLab
+  - GitHub
+  - GitLab
 - Docker
 - AWS, GCP
 

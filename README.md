@@ -18,7 +18,7 @@
   - GitLab
 - Docker
 - AWS, GCP
-
+- Linux
 
 
 <h3>Language and Tools:</h3>

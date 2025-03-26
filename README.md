@@ -37,5 +37,4 @@
   <img alt="VScode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img alt="docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img alt="google-cloud-platform" src="https://img.icons8.com/color/48/google-cloud-platform.png"/>
-  <img alt="amazon-web-services" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </p>

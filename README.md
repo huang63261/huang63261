@@ -17,7 +17,7 @@
   - GitHub
   - GitLab
 - Docker
-- AWS, GCP
+- GCP
 - Linux
 
 
